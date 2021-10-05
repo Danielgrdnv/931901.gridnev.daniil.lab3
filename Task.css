@@ -1,6 +1,6 @@
 ::selection {
   background: green;
-  
+
   color: white;
 }
 body {
@@ -22,7 +22,6 @@ aside {
   width: 200px;
   flex-shrink: 0;
   height: 900px;
-  
 }
 
 div {
@@ -40,11 +39,10 @@ ul {
 
 li {
   margin-bottom: 20px;
-  margin-right:40px;
+  margin-right: 40px;
 }
 li:hover {
   background-color: green;
-
 }
 
 a {
@@ -68,9 +66,9 @@ footer {
   clear: both;
 }
 
-span{
-  color:red;
-  font-size:22px;
+span {
+  color: red;
+  font-size: 22px;
 }
 
 /*
